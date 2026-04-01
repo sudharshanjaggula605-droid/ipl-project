@@ -35,10 +35,11 @@ h3{
 }
 .images{
     padding: 20px;
-    margin: 20px;
     background-color: black;
 }
 body{
     background-color: black;
 }
-
+img{
+    margin: 15px;
+}
